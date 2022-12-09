@@ -1,0 +1,8 @@
+2022-12-02 14:37:50,785 | FemsService | INFO | succeed to do 'GetLpDataHourly('20201010')'
+2022-12-02 14:38:14,157 | FemsService | INFO | succeed to do 'GetLpDataHourly('202010100000')'
+2022-12-02 14:38:31,486 | FemsService | INFO | succeed to do 'GetLpDataHourly('202210100000')'
+2022-12-02 14:38:41,400 | FemsService | INFO | succeed to do 'GetLpDataHourly('20221010')'
+2022-12-02 14:39:24,862 | FemsService | INFO | succeed to do 'GetLpDataHourly('20221010')'
+2022-12-02 14:40:33,762 | FemsService | INFO | succeed to do 'GetLpDataHourly('20221010')'
+2022-12-06 14:16:04,315 | FemsService | INFO | succeed to do 'GetLpDataDaily('20100111',20100113)'
+2022-12-06 14:18:01,271 | FemsService | INFO | succeed to do 'GetLpDataDaily('2010-01-11 0:00',2010-01-15 1:00)'
